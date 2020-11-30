@@ -1,0 +1,14 @@
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\bin\Debug\Lesson8Homework.exe.config
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\bin\Debug\Lesson8Homework.exe
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\bin\Debug\Lesson8Homework.pdb
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.csprojAssemblyReference.cache
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.Form1.resources
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.Form2Task1QuestionsDataBaseEditor.resources
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.Properties.Resources.resources
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.csproj.GenerateResource.cache
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.exe
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.pdb
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.FormAbout.resources
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.Form3Task2BelieveNotBelieveGame.resources
+E:\GeekBrains\Основы C#\Урок 8\Homework\Lesson8Homework\Lesson8Homework\obj\Debug\Lesson8Homework.Form4Task3StudentsInfo.resources
